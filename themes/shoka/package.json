@@ -1,0 +1,11 @@
+{
+  "name": "hexo-theme-shoka",
+  "version": "0.2.5",
+  "description": "",
+  "author": "Ruri Shimotsuki",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "hexo-renderer-multi-markdown-it": "^0.1.5"
+  }
+}
