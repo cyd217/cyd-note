@@ -6,6 +6,10 @@ tags:
   - 指针
 categories:
 	- golang
+description: 
+toc: true
+toc_number: true
+cover:  /img/post/6833939bly1giph4fomxoj20zk0m8axp.jpg
 ---
 ### 方法 
 方法能给**用户自定义的类型**添加新的行为。它和函数的区别在于方法有一个**接收者**，给一个函数添加一个接收者，那么它就变成了方法。**接收者可以是值接收者，也可以是指针接收者**。
