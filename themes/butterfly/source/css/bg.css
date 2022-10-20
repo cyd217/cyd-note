@@ -1,0 +1,23 @@
+/* 文章页背景 */
+.layout_post>#post {
+    /* 以下代表透明度为0.5 可以自行修改*/
+    background: rgba(9, 187, 12, 0.1);
+}
+
+/* 所有页面背景 */
+#aside_content .card-widget, #recent-posts>.recent-post-item, .layout_page>div:first-child:not(.recent-posts), .layout_post>#page, .layout_post>#post, .read-mode .layout_post>#post{
+    /* 以下代表透明度为0.5 */
+    background: rgba(193, 149, 3, 0.1);
+}
+
+
+
+#web_bg {
+    background: linear-gradient(102.7deg,#fddaff 27.8%,#adcdfc 36.8%,#adfcf4 73.2%,#caf8d0 90.9%);
+  
+  }
+
+/*
+#web_bg{
+    background-image: url("/themes/butterfly/source/img/6833939bly1gipexj2jgzj20zk0m8b09.jpg"), linear-gradient(60deg, rgba(255, 165, 150, 0.5) 5%, rgba(0, 228, 255, 0.35)), url("/themes/butterfly/source/img/6833939bly1gipexj2jgzj20zk0m8b09.jpg");
+}*/
